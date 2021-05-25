@@ -29,7 +29,7 @@ biggerIsGreater has the following parameter(s):
 ## Input Format
 
 The first line of input contains , T the number of test cases.
-Each of the next  lines contains .
+Each of the next  lines contains w .
 
 ## Constraints
 
