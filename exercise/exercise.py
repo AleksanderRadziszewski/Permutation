@@ -1,6 +1,7 @@
 def biggerIsGreater(word):
     arr = list(word)
     # Find non-increasing suffix
+
     i = len(arr) - 1
     while i > 0 and arr[i - 1] >= arr[i]:
         i -= 1
