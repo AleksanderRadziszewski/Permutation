@@ -1,6 +1,6 @@
 # Exercise from https://www.hackerrank.com/
 
-##Completion state : in the process
+## Completion state : in the process
 
 Lexicographical order is often known as alphabetical order when dealing with strings. A string is greater than another string if it comes later in a lexicographically sorted list.
 
